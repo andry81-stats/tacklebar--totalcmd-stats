@@ -1,3 +1,8 @@
+2022-04-27T08:25:58Z:
+* notice: query file size: 25769
+* notice: json prev / next / diff: re vi: 0 1490 / 0 1492 / +0 +2
+* notice: prev day diff: re vi: +0 +5
+
 2022-04-27T04:49:32Z:
 * notice: query file size: 25769
 * notice: json prev / next / diff: re vi: 0 1489 / 0 1490 / +0 +1
